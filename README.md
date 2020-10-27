@@ -4,9 +4,6 @@
 
 I am a web enthusiast,Strive to be an excellent developer.
 
-- 🌱 currently learning Vue, typescript, flutter
-- 😄 Expect: Raise skills && Live better
-
 - Read more about [me](http://lastwhisper.net)
 - Follow me on [Twitter](https://twitter.com/LastWhisperzzz)
 
