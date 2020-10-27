@@ -7,8 +7,8 @@ creating things with a sense of design is something I'm very keen on.
 now I'm focused on front-end development.
 
 ### Interest
-* League of Legends
-* Jay
+* LOL&TFT
+* Jay's music
 * Tea 🍵
 * Fountain Pen 🖋️
 
