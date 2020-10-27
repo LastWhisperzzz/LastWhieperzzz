@@ -7,10 +7,9 @@ creating things with a sense of design is something I'm very keen on.
 now I'm focused on front-end development.
 
 ### Interest
-* LOL&TFT
-* Jay's music
-* Tea 🍵
-* Fountain Pen 🖋️
+- Jay's music
+- Tea 🍵
+- Fountain Pen 🖋️
 
 - Read more about [me](http://lastwhisper.net)
 - Follow me on [Twitter](https://twitter.com/LastWhisperzzz)
