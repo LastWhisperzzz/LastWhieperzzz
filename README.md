@@ -7,7 +7,7 @@ I am a web enthusiast,Strive to be an excellent developer.
 may you...
 work like you don't need money,
 love like you've never been hurt,
-and dance like nobody's watching.
+and dance like no one's watching.
 
 - Read more about [me](http://lastwhisper.net)
 - Follow me on [Twitter](https://twitter.com/LastWhisperzzz)
