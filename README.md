@@ -6,9 +6,9 @@ I'm a web enthusiast and used to be a Java engineer,creating things with a sense
 Now i'm focused on front-end development.
 
 ### Interest
-- Jay's music
-- Tea 🍵
-- Fountain Pen 🖋️
+- Web development
+- writing
+- Design
 
 
 
