@@ -5,10 +5,10 @@
 I'm a web enthusiast and used to be a Java engineer,creating things with a sense of design is something I'm very keen on.
 Now i'm focused on front-end development.
 
-### Interest
-- singing,dancing
-- rap
-- basketball
+### Follow
+- [Blog](https://lastwhisper.net)
+- [LeetCode](https://leetcode-cn.com/u/last-whisper-zzz/)
+- [Resume](https://resume.lastwhisper.net)
 
 
 
