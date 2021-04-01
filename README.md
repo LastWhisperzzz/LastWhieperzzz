@@ -6,7 +6,7 @@ I'm a web enthusiast and used to be a Java engineer,creating things with a sense
 Now i'm focused on front-end development.
 
 #### About me
-- [Blog](https://lastwhisper.net)
+- [Blog](https://blog.lastwhisper.net)
 - [LeetCode](https://leetcode-cn.com/u/last-whisper-zzz/)
 - [Resume](https://resume.lastwhisper.net)
 
